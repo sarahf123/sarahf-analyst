@@ -1,3 +1,3 @@
-# sfd-356
-Python da ml interns. projects n assignments
-[Parkinson dataset link]("C:\Users\asus\Documents\Parkinsson disease.csv")
+# Internship projects and tasks 
+Python da ml internship projects and assignments
+[Parkinson disease dataset link]("C:\Users\asus\Documents\Parkinsson disease.csv")
